@@ -178,3 +178,61 @@ Frontend
 ### Building. Learning. Improving.
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ Developer Snapshot
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**☕ Backend**
+
+Java  
+Spring Boot  
+JDBC  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+**🎨 Frontend**
+
+React  
+JavaScript  
+HTML  
+CSS
+
+</td>
+
+<td align="center" width="25%">
+
+**🗄️ Data**
+
+Oracle SQL  
+MySQL  
+MongoDB  
+DBMS
+
+</td>
+
+<td align="center" width="25%">
+
+**🧠 Foundations**
+
+DSA  
+OOP  
+SDLC  
+Git & GitHub
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
