@@ -112,9 +112,9 @@ Git & GitHub
 
 **Full-Stack Weekly Time Budget Allocator**
 
-A full-stack application built with **Java, Spring Boot, React, and MySQL** to manage weekly availability, track actual time usage, and generate personalized time allocation recommendations.
+Java + Spring Boot + React + MySQL application for planning weekly availability, tracking actual time usage, and generating personalized time allocation recommendations.
 
-**Focus:** Time Allocation • Recommendations • Tracking • Rebalancing
+`Time Allocation` • `Recommendations` • `Tracking` • `Rebalancing`
 
 [View Repository →](https://github.com/blazePrakhar/WeekAhead)
 
@@ -124,9 +124,9 @@ A full-stack application built with **Java, Spring Boot, React, and MySQL** to m
 
 **C++ Coding Solution Management System**
 
-A modular C++ application for managing coding problems and language-specific solutions using **Object-Oriented Programming, STL, and persistent file storage**.
+Modular C++ application for managing coding problems and language-specific solutions using OOP, STL, CRUD operations, and persistent file storage.
 
-**Focus:** OOP • CRUD • File Handling • Search & Filtering • Statistics
+`C++` • `OOP` • `STL` • `File Handling` • `CRUD`
 
 [View Repository →](https://github.com/blazePrakhar/CodeVault)
 
@@ -136,9 +136,9 @@ A modular C++ application for managing coding problems and language-specific sol
 
 **MERN Stack Task Management System**
 
-A full-stack task management application built with the **MERN stack**, featuring JWT authentication and complete task CRUD functionality.
+Full-stack task management application featuring JWT authentication, task CRUD operations, and a React-based interface.
 
-**Focus:** React • JavaScript • Authentication • CRUD
+`React` • `JavaScript` • `JWT` • `CRUD`
 
 [View Repository →](https://github.com/blazePrakhar/ZenDo)
 
