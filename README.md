@@ -147,22 +147,18 @@ Full-stack task management application featuring JWT authentication, task CRUD o
 ## 📚 Currently Learning
 
 ```text
-Java
-├── Object-Oriented Programming
+Java Full-Stack
 ├── Collections Framework
 ├── JDBC
 ├── REST APIs
 └── Spring Boot
 
-Computer Science
+Core CS
 ├── Data Structures & Algorithms
 ├── DBMS
 └── SQL
 
 Frontend
-├── HTML
-├── CSS
-├── JavaScript
 └── React
 ```
 
@@ -176,7 +172,7 @@ Frontend
 
 <br>
 
-`DSA` • `DBMS` • `SQL` • `React`
+`DSA` • `DBMS` • `Oracle SQL` • `React`
 
 </div>
 
