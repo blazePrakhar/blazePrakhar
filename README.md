@@ -70,11 +70,11 @@ Git & GitHub
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science and Business Systems undergraduate
-- 💻 Focused on **Java and full-stack development**
-- 🚀 Built **WeekAhead**, a full-stack weekly time budget allocation system
-- 🧠 Strengthening my foundation in **Data Structures, OOP, DBMS, and SQL**
-- 🔧 Interested in building clean, maintainable, and practical software
-- 📚 Currently deepening my knowledge of **Java, Spring Boot, JDBC, REST APIs, and React**
+- 💻 Focused on **Java full-stack development**
+- 🚀 Building practical applications with **Spring Boot and React**
+- 🧠 Strengthening **DSA, OOP, DBMS, and SQL** fundamentals
+- 🔧 Interested in clean, maintainable, and practical software
+- 📚 Currently deepening my knowledge of **JDBC, REST APIs, and Spring Boot**
 
 ---
 
@@ -86,17 +86,21 @@ Git & GitHub
 
 <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" alt="Languages" />
 
-<br><br>
+<br>
 
 ### Frameworks & Technologies
 
 <img src="https://skillicons.dev/icons?i=spring,react" alt="Frameworks" />
 
-<br><br>
+<br>
 
 ### Databases & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode" alt="Tools & DBs" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode" alt="Tools & DBs" /> 
+ 
+<br> 
+ 
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL"/>
 
 </div>
 
