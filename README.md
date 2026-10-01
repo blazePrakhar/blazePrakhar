@@ -29,19 +29,19 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" alt="Languages" />
 
 <br><br>
 
 ### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=spring,react" />
+<img src="https://skillicons.dev/icons?i=spring,react" alt="Frameworks" />
 
 <br><br>
 
 ### Databases & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode" alt="Tools & DBs" />
 
 </div>
 
@@ -105,3 +105,62 @@ Frontend
 ├── CSS
 ├── JavaScript
 └── React
+```
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+**Java → JDBC → REST APIs → Spring Boot → Full-Stack Development**
+
+<br>
+
+`DSA` • `DBMS` • `SQL` • `React`
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blazePrakhar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Prakhar's GitHub Statistics"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazePrakhar&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Prakhar's Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=blazePrakhar&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/blazeprakhar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/blaze_Prakhar/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://github.com/blazePrakhar" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Building. Learning. Improving.
+
+</div>
